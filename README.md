@@ -3,7 +3,7 @@
 > Yapay Zeka Uygulamaları Geliştiricisi | Üniversite Öğrencisi | Modern AI Mimarlıkları ve Temiz Kod Tutkunu
 
 ## 🔭 Ana Odak: AI-Sign
-Şu anda **[AI-Sign: Çift Yönlü (Hibrit) İşaret Dili Tercümanı](https://github.com/KULLANICI_ADIN/ai-sign-hybrid-translator)** projesinin mimarisini inşa ediyorum. 
+Şu anda **[AI-Sign: Çift Yönlü (Hibrit) İşaret Dili Tercümanı](https://github.com/ardaerdiiin/ai-sign-hybrid-translator)** projesinin mimarisini inşa ediyorum. 
 
 **Teknik Kapsam:** * Bilgisayarlı Görü (Computer Vision) ile gerçek zamanlı veri işleme.
 * NLP tabanlı çift yönlü çeviri motoru entegrasyonu.
